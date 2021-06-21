@@ -1,38 +1,19 @@
 
-# Homework-week-16
-Professional Materials
-Using the application, please provide a link to your LinkedIn profile. Currently, the link provided takes me to my LinkedIn feed. In the project section, please include a repo URL for each project. When viewed on a smaller screen, please resize the project images.
+# Homework-week-16 Professional Materials
 
-Moving to your GitHub profile, please include a profile picture or avatar, a link to your deployed portfolio, and follow a few classmates/developers. Also, please pin at least two repositories, making sure that each one has a README containing project descriptions, screenshots, and links to deployed applications.
+## Overview
 
-If you have questions or need help, contact your instructional staff. There are office hours and tutoring available.
-# Homework-week-8 Portfolio
+Updated portfolio
 
-## Unit 08 Project 1 Homework: Professional Materials
 
 ## How to install
 
-Clone the repository
-* Git clone https://github.com/SusanSu123/Homework-week-8.git
+* Clone the repository https://github.com/SusanSu123/Homework-week-16.git
 
 * Go to index.html
 
 * Open with your favarite browser
 
-
-## Implementatin Details
-
-Using semantic HTML elements: header,section, nav bar, footer
-
-Utlising multiple CSS functions to completed layput
-
-Click on portfolio title then goes to recent projetc and homework
-
-Click on Linedin link then goes to Linedin profile
-
-Click on Git Hub link then goes to Git Hut repo
-
-Click on resume link then goes to my resume documentation
 
 
 ## The following conditions
@@ -46,12 +27,6 @@ Click on resume link then goes to my resume documentation
 * THEN you are taken to that deployed application
 * WHEN you resize the page or view the site on various screens and devices
 * THEN you are presented with a responsive layout that adapts to your viewport
-
-## Screenshoot
-
-![demo](/assets/Images/one.png)
-![demo](/assets/Images/two.png)
-![demo](/assets/Images/three.png)
 
 
   
