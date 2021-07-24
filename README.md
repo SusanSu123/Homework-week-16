@@ -5,7 +5,7 @@ Updated portfolio
 
 ## How to install
 
-* Clone the repository https://github.com/SusanSu123/Homework-week-16.git
+* Clone the repository https://github.com/SusanSu123/Professional-Materials-02.git
 
 * Go to index.html
 
